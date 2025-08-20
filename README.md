@@ -4,7 +4,7 @@ The official implementation of **KG-TrajGen** .
 KG-TrajGen explicitly models local and global spatial dependencies by constructing an RKG 
 to learn informative road segment representations; it further characterizes the interaction 
 between roads and the urban environment using E-RKG, and then effectively integrates environmental 
-information into the trajectory generation process through an MLP fusion module.
+information into the trajectory generation process through an MLP fusion module.Our data can be download at [Baidu Pan with code umh5](https://pan.baidu.com/s/16e6Ww_gTWvIFoh7glkIuDA).
 
 ## Installation
 
